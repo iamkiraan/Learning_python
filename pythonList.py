@@ -70,3 +70,21 @@ for x in list2:
 print(list1)
 list1.extend(list2)
 print(list1)
+
+# tuples ko example
+values = (True,False,True,False)
+anothervalues  = {"kiran","acharya","nepal","country","lumbini"}
+next = {"kiran","acharya","india","bowl"}
+if(values[2]==True):
+    print("the check is successful")
+else:
+    print("not successful")
+
+print(len(values))
+
+# sets ko example haru
+l = anothervalues.union(next)
+print(l)
+p = anothervalues.intersection(next)
+print(p)
+
