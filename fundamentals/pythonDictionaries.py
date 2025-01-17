@@ -29,20 +29,14 @@ print(values)
 
 # nested dictionaries
 
-child = {
-    "child1"={
-        "name" : "name1",
-        "age" : 22
-    },
-    "child2" = {
-        "name" : "name2",
-        "age" : 24
-    }
-}
+# child = {
+#     "child1"={
+#         "name" : "name1",
+#         "age" : 22
+#     },
+#     "child2" = {
+#         "name" : "name2",
+#         "age" : 24
+#     }
+# }
 
-print(child)
-
-myFamily = {
-    "child1" : child1,
-    "child2" : child2
-}
