@@ -11,3 +11,5 @@ x = {
     "age":23
 }
 print(x)
+
+# dumps use garera object laii json ma convert garna sakinxa
